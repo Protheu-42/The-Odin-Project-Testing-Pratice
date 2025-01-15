@@ -4,7 +4,8 @@
   "description": "This project it's a Odin Project focus on testing with jest",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "author": "",
   "license": "ISC",
